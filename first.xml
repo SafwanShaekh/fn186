@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<watch>
+    <watch1>
+        <name>Rolex</name>
+        <price>34.5 $</price>
+        <description>Expensive Premium watches</description>
+    </watch1>
+    <watch2>
+        <name>Casio</name>
+        <price>78.5 $</price>
+        <description>Expensive Premium watches</description>
+    </watch2>    
+</watch>

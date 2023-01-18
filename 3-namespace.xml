@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root xmlns:s="https://www.w3c.com" xmlns:e="https://www.w3c.com">
+  <s:table >
+    <s:fullname>Ali Ashrafi</s:fullname>
+    <s:age>19</s:age>
+    <s:address>karachi, Pakistan</s:address>
+</s:table>
+<s:table>
+    <s:fullname>Ali Ashrafi</s:fullname>
+    <s:age>19</s:age>
+    <s:address>karachi, Pakistan</s:address>
+</s:table>
+
+<e:table >
+    <e:tr>
+        <e:td>Talha</e:td>
+        <e:td>18</e:td>
+        <e:td>Islamabad, Pakistan</e:td>
+    </e:tr>
+</e:table>  
+</root>
